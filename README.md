@@ -13,6 +13,7 @@ This project challenged me greatly to use and expand my proficiencies with API c
 
 To load and utilize this Weather Dashboard, simply visit the following URL from any contemporary web browser connected to the internet, and follow the prompts:
 
+https://peejd.github.io/Weather_Dashboard/
 
 
 ## Usage
